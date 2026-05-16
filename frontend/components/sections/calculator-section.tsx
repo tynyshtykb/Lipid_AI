@@ -55,7 +55,7 @@ export function CalculatorSection() {
     const tc = parseFloat(formData.tc);
     const hdl = parseFloat(formData.hdl);
     const tg = parseFloat(formData.tg);
-    const age = parseFloat(formData.age);
+    const age = parseInt(formData.age);
 
     if (isNaN(tc) || isNaN(hdl) || isNaN(tg) || isNaN(age)) {
       return;
