@@ -64,7 +64,7 @@ export function CalculatorSection() {
     setIsCalculating(true);
     
     try {
-      const response = await fetch('https://Tynyshtyk-Lipid_AI.hf.space/predict', {
+      const response = await fetch('https://tynyshtyk-lipid-ai.hf.space/api/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
