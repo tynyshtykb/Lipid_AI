@@ -64,7 +64,7 @@ export function CalculatorSection() {
     setIsCalculating(true);
     
     try {
-      const response = await fetch('https://TYNYSHTYK-LipidAI.hf.space/api/predict', {
+      const response = await fetch('http://localhost:8000/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
