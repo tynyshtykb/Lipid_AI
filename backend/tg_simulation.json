@@ -1,0 +1,416 @@
+[
+    {
+        "tg": 50,
+        "friedewald": 145.0,
+        "martin": 146.67,
+        "sampson": 149.58,
+        "lipidai": 148.09,
+        "real_ldl": 153.13,
+        "matched_tg": 62.88
+    },
+    {
+        "tg": 60,
+        "friedewald": 143.0,
+        "martin": 145.0,
+        "sampson": 148.7,
+        "lipidai": 148.09,
+        "real_ldl": 153.13,
+        "matched_tg": 62.88
+    },
+    {
+        "tg": 70,
+        "friedewald": 141.0,
+        "martin": 143.33,
+        "sampson": 147.88,
+        "lipidai": 148.09,
+        "real_ldl": 157.77,
+        "matched_tg": 77.06
+    },
+    {
+        "tg": 80,
+        "friedewald": 139.0,
+        "martin": 141.67,
+        "sampson": 147.13,
+        "lipidai": 148.09,
+        "real_ldl": 157.77,
+        "matched_tg": 77.06
+    },
+    {
+        "tg": 90,
+        "friedewald": 137.0,
+        "martin": 140.0,
+        "sampson": 146.45,
+        "lipidai": 147.72,
+        "real_ldl": 156.23,
+        "matched_tg": 96.54
+    },
+    {
+        "tg": 100,
+        "friedewald": 135.0,
+        "martin": 138.33,
+        "sampson": 145.83,
+        "lipidai": 147.45,
+        "real_ldl": 156.23,
+        "matched_tg": 96.54
+    },
+    {
+        "tg": 110,
+        "friedewald": 133.0,
+        "martin": 136.67,
+        "sampson": 145.28,
+        "lipidai": 147.12,
+        "real_ldl": 138.83,
+        "matched_tg": 109.83
+    },
+    {
+        "tg": 120,
+        "friedewald": 131.0,
+        "martin": 135.0,
+        "sampson": 144.8,
+        "lipidai": 146.8,
+        "real_ldl": 145.79,
+        "matched_tg": 124.88
+    },
+    {
+        "tg": 130,
+        "friedewald": 129.0,
+        "martin": 133.33,
+        "sampson": 144.38,
+        "lipidai": 146.35,
+        "real_ldl": 145.79,
+        "matched_tg": 124.88
+    },
+    {
+        "tg": 140,
+        "friedewald": 127.0,
+        "martin": 131.67,
+        "sampson": 144.03,
+        "lipidai": 145.82,
+        "real_ldl": 131.48,
+        "matched_tg": 140.83
+    },
+    {
+        "tg": 150,
+        "friedewald": 125.0,
+        "martin": 130.0,
+        "sampson": 143.75,
+        "lipidai": 146.06,
+        "real_ldl": 153.91,
+        "matched_tg": 150.57
+    },
+    {
+        "tg": 160,
+        "friedewald": 123.0,
+        "martin": 128.33,
+        "sampson": 143.53,
+        "lipidai": 145.5,
+        "real_ldl": 138.44,
+        "matched_tg": 154.11
+    },
+    {
+        "tg": 170,
+        "friedewald": 121.0,
+        "martin": 126.67,
+        "sampson": 143.38,
+        "lipidai": 143.85,
+        "real_ldl": 151.59,
+        "matched_tg": 168.28
+    },
+    {
+        "tg": 180,
+        "friedewald": 119.0,
+        "martin": 125.0,
+        "sampson": 143.3,
+        "lipidai": 143.23,
+        "real_ldl": 112.92,
+        "matched_tg": 176.25
+    },
+    {
+        "tg": 190,
+        "friedewald": 117.0,
+        "martin": 123.33,
+        "sampson": 143.28,
+        "lipidai": 142.25,
+        "real_ldl": 138.83,
+        "matched_tg": 187.77
+    },
+    {
+        "tg": 200,
+        "friedewald": 115.0,
+        "martin": 121.67,
+        "sampson": 143.33,
+        "lipidai": 140.86,
+        "real_ldl": 152.36,
+        "matched_tg": 201.94
+    },
+    {
+        "tg": 210,
+        "friedewald": 113.0,
+        "martin": 120.0,
+        "sampson": 143.45,
+        "lipidai": 140.86,
+        "real_ldl": 155.45,
+        "matched_tg": 209.03
+    },
+    {
+        "tg": 220,
+        "friedewald": 111.0,
+        "martin": 118.33,
+        "sampson": 143.63,
+        "lipidai": 140.21,
+        "real_ldl": 137.67,
+        "matched_tg": 221.42
+    },
+    {
+        "tg": 230,
+        "friedewald": 109.0,
+        "martin": 116.67,
+        "sampson": 143.88,
+        "lipidai": 137.98,
+        "real_ldl": 127.61,
+        "matched_tg": 236.48
+    },
+    {
+        "tg": 240,
+        "friedewald": 107.0,
+        "martin": 115.0,
+        "sampson": 144.2,
+        "lipidai": 137.76,
+        "real_ldl": 118.33,
+        "matched_tg": 239.14
+    },
+    {
+        "tg": 250,
+        "friedewald": 105.0,
+        "martin": 113.33,
+        "sampson": 144.58,
+        "lipidai": 135.94,
+        "real_ldl": 156.23,
+        "matched_tg": 255.08
+    },
+    {
+        "tg": 260,
+        "friedewald": 103.0,
+        "martin": 111.67,
+        "sampson": 145.03,
+        "lipidai": 134.27,
+        "real_ldl": 135.73,
+        "matched_tg": 261.28
+    },
+    {
+        "tg": 270,
+        "friedewald": 101.0,
+        "martin": 110.0,
+        "sampson": 145.55,
+        "lipidai": 134.27,
+        "real_ldl": 117.17,
+        "matched_tg": 269.25
+    },
+    {
+        "tg": 280,
+        "friedewald": 99.0,
+        "martin": 108.33,
+        "sampson": 146.13,
+        "lipidai": 134.27,
+        "real_ldl": 129.93,
+        "matched_tg": 281.65
+    },
+    {
+        "tg": 290,
+        "friedewald": 97.0,
+        "martin": 106.67,
+        "sampson": 146.78,
+        "lipidai": 132.86,
+        "real_ldl": 126.84,
+        "matched_tg": 288.74
+    },
+    {
+        "tg": 300,
+        "friedewald": 95.0,
+        "martin": 105.0,
+        "sampson": 147.5,
+        "lipidai": 130.53,
+        "real_ldl": 123.36,
+        "matched_tg": 299.37
+    },
+    {
+        "tg": 310,
+        "friedewald": 93.0,
+        "martin": 103.33,
+        "sampson": 148.28,
+        "lipidai": 129.83,
+        "real_ldl": 123.36,
+        "matched_tg": 299.37
+    },
+    {
+        "tg": 320,
+        "friedewald": 91.0,
+        "martin": 101.67,
+        "sampson": 149.13,
+        "lipidai": 127.53,
+        "real_ldl": 152.75,
+        "matched_tg": 319.74
+    },
+    {
+        "tg": 330,
+        "friedewald": 89.0,
+        "martin": 100.0,
+        "sampson": 150.05,
+        "lipidai": 127.53,
+        "real_ldl": 139.21,
+        "matched_tg": 338.34
+    },
+    {
+        "tg": 340,
+        "friedewald": 87.0,
+        "martin": 98.33,
+        "sampson": 151.03,
+        "lipidai": 125.31,
+        "real_ldl": 139.21,
+        "matched_tg": 338.34
+    },
+    {
+        "tg": 350,
+        "friedewald": 85.0,
+        "martin": 96.67,
+        "sampson": 152.08,
+        "lipidai": 125.31,
+        "real_ldl": 139.21,
+        "matched_tg": 338.34
+    },
+    {
+        "tg": 360,
+        "friedewald": 83.0,
+        "martin": 95.0,
+        "sampson": 153.2,
+        "lipidai": 122.06,
+        "real_ldl": 131.09,
+        "matched_tg": 359.59
+    },
+    {
+        "tg": 370,
+        "friedewald": 81.0,
+        "martin": 93.33,
+        "sampson": 154.38,
+        "lipidai": 122.06,
+        "real_ldl": 116.4,
+        "matched_tg": 379.97
+    },
+    {
+        "tg": 380,
+        "friedewald": 79.0,
+        "martin": 91.67,
+        "sampson": 155.63,
+        "lipidai": 122.06,
+        "real_ldl": 116.4,
+        "matched_tg": 379.97
+    },
+    {
+        "tg": 390,
+        "friedewald": 77.0,
+        "martin": 90.0,
+        "sampson": 156.95,
+        "lipidai": 116.16,
+        "real_ldl": 116.4,
+        "matched_tg": 379.97
+    },
+    {
+        "tg": 400,
+        "friedewald": 75.0,
+        "martin": 88.33,
+        "sampson": 158.33,
+        "lipidai": 112.39,
+        "real_ldl": 116.4,
+        "matched_tg": 379.97
+    },
+    {
+        "tg": 410,
+        "friedewald": 73.0,
+        "martin": 86.67,
+        "sampson": 159.78,
+        "lipidai": 112.39,
+        "real_ldl": 126.45,
+        "matched_tg": 418.05
+    },
+    {
+        "tg": 420,
+        "friedewald": 71.0,
+        "martin": 85.0,
+        "sampson": 161.3,
+        "lipidai": 112.39,
+        "real_ldl": 126.45,
+        "matched_tg": 418.05
+    },
+    {
+        "tg": 430,
+        "friedewald": 69.0,
+        "martin": 83.33,
+        "sampson": 162.88,
+        "lipidai": 112.39,
+        "real_ldl": 92.42,
+        "matched_tg": 441.96
+    },
+    {
+        "tg": 440,
+        "friedewald": 67.0,
+        "martin": 81.67,
+        "sampson": 164.53,
+        "lipidai": 107.4,
+        "real_ldl": 92.42,
+        "matched_tg": 441.96
+    },
+    {
+        "tg": 450,
+        "friedewald": 65.0,
+        "martin": 80.0,
+        "sampson": 166.25,
+        "lipidai": 107.4,
+        "real_ldl": 92.42,
+        "matched_tg": 441.96
+    },
+    {
+        "tg": 460,
+        "friedewald": 63.0,
+        "martin": 78.33,
+        "sampson": 168.03,
+        "lipidai": 107.4,
+        "real_ldl": 99.0,
+        "matched_tg": 457.02
+    },
+    {
+        "tg": 470,
+        "friedewald": 61.0,
+        "martin": 76.67,
+        "sampson": 169.88,
+        "lipidai": 107.4,
+        "real_ldl": 118.72,
+        "matched_tg": 472.08
+    },
+    {
+        "tg": 480,
+        "friedewald": 59.0,
+        "martin": 75.0,
+        "sampson": 171.8,
+        "lipidai": 105.88,
+        "real_ldl": 118.72,
+        "matched_tg": 472.08
+    },
+    {
+        "tg": 490,
+        "friedewald": 57.0,
+        "martin": 73.33,
+        "sampson": 173.78,
+        "lipidai": 105.08,
+        "real_ldl": 118.72,
+        "matched_tg": 472.08
+    },
+    {
+        "tg": 500,
+        "friedewald": 55.0,
+        "martin": 71.67,
+        "sampson": 175.83,
+        "lipidai": 103.69,
+        "real_ldl": 96.68,
+        "matched_tg": 528.76
+    }
+]
